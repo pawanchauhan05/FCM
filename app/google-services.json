@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "501157228698",
+    "project_id": "fcmdemo-ec564"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501157228698:android:99cc8e790856e0ed",
+        "android_client_info": {
+          "package_name": "com.pawansinghchouhan05.fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyAs97uirrSkNEicQviRZCQR2uuJCLCqE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
